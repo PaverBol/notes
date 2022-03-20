@@ -1,0 +1,3 @@
+- As a regular github user
+- I want to be able to create an issue
+- So that I can track my software development progress
