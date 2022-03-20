@@ -5,7 +5,7 @@
 - So that I can track my software development progress
 
 
-## acceptance criteria:
+## Acceptance criteria
 ### Given
 on the top of page there is issues tab
 ### When 
