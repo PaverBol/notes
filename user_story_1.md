@@ -7,7 +7,7 @@
 
 ## Acceptance criteria
 ### Given
-I'm on main page. On the top of page there is issues tab
+I'm on main page. On the top of page there is 'issues' tab
 ### When 
 I'm choose it
 ### Then

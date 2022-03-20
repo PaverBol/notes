@@ -5,8 +5,8 @@
 
 ## Acceptance criteria
 ### Given
-On main page when you signed you can go to account setting, choose "You rofile" then will be shown your Profile infomation
+On main page, when I'm signed 
 ### When
-you choose "Edit prifile"(located under user photo) 
+I go to 'account setting' Choose 'You profile', then I choose 'Edit prifile'(located under user photo) 
 ### Then
-you go to page, where you can see information(name, phone, e-mail etc) and change it, if you need it
+I go to page, where you can see information(name, phone, e-mail etc) and change it, if you need it
