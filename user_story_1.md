@@ -6,9 +6,9 @@
 
 
 ## acceptance criteria:
-### Given...
-- on the top of page there is issues tab
-### When... 
-- you can chose it
-### Then...
-- you create new issue or check status created before 
+### Given
+on the top of page there is issues tab
+### When 
+you can chose it
+### Then
+you create new issue or check status created before 
