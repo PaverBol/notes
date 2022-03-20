@@ -7,8 +7,8 @@
 
 ## Acceptance criteria
 ### Given
-on the top of page there is issues tab
+I'm on main page. On the top of page there is issues tab
 ### When 
-you can chose it
+I you choose it
 ### Then
-you create new issue or check status created before 
+I go to page with created before issues and form to created new one
