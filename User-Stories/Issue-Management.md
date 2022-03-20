@@ -8,7 +8,7 @@
 
 ## Acceptance Criteria
 
-- Gieven I'm on the `Issues` screen
+- Given I'm on the `Issues` screen
 - When I click on `New issue`
 - Then I see the form with the `Title` and `Description`
 
