@@ -6,7 +6,7 @@
 - I want to be able to add an issue
 - So that I can track my working progress
 
-$$ Acceptance Criteria
+## Acceptance Criteria
 
 - Gieven I'm on the `Issues` screen
 - When I click on `New issue`
